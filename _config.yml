@@ -1,2 +1,35 @@
-# test
-title: "Junteng Liu"
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+
+# Basic Site Settings
+locale                   : "en-US"
+site_theme               : "default"
+title                    : "Junteng Liu"
+title_separator          : "-"
+name                     : &name "Junteng Liu"
+description              : &description "Junteng Liu's academic portfolio"
+url                      : https://gangtraderarouse.github.io
+baseurl                  : "/LJT-Homepage"
+repository               : "GangTraderArouse/LJT-Homepage"
+
+# Site Author
+author:
+  avatar           : "profile.png"
+  name             : "Junteng Liu"
+  bio              : "First-year Ph.D. candidate at HKUST NLP Group"
+  employer         : "HKUST NLP Group"
+  email            : "jliugi@connect.ust.hk"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
+  github           : "Vicent0205"
+  twitter          : "junteng88716710"
+
+# Publication Category
+publication_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Preprints'
+  conferences:
+    title: 'Conference Papers'
